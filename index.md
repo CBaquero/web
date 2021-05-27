@@ -19,7 +19,7 @@ Past:
 
 ## Service 
 
-I am contributing to the lunch of [JSys](https://escholarship.org/uc/jsys/eb) (Journal of Systems Research) in the editorial borad, a diamond open-access journal covering all areas of computer systems research.
+I am contributing to the lunch of [JSys](https://escholarship.org/uc/jsys/eb) (Journal of Systems Research) in the editorial board, a diamond open-access journal covering all areas of computer systems research.
 
 PC Member:
 
@@ -29,7 +29,7 @@ PC Member:
 
 Industry:
 
-* Redis Day London, Nov 2018. 
+* Redis Day London, Nov 2018. [[Slides]](https://www.slideshare.net/RedisLabs/redisday-london-2018-crdts-and-redis-from-sequential-to-concurrent-executions) [[Video]](https://www.youtube.com/watch?v=ZoMIzBM0nf4)
 * Code Mesh LDN, Nov 2018. 
 * Redis Conference, Apr 2018. 
 * Papers-we-Love Madrid, Sep 2016. 
@@ -63,5 +63,6 @@ Alumni:
 
 * DBLP
 * Google Scholar
-* ACM DL(https://dl.acm.org/profile/81100441005)
-* ORCID
+* [ACM DL](https://dl.acm.org/profile/81100441005)
+* [ORCID](https://orcid.org/0000-0002-3933-6850)
+* [Publons](https://publons.com/researcher/2795888/carlos-baquero/)
