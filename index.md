@@ -1,6 +1,6 @@
 # Carlos Baquero
 
-I'm an Associate Professor with Habilitation in the Informatics Department, Universidade do Minho http://www.uminho.pt, and a Senior Researcher at the High Assurance Laboratory (HASLab) within INESC TEC http://www.inestec.pt.
+I'm an Associate Professor with Habilitation in the Informatics Department, [Universidade do Minho](http://www.uminho.pt), and a Senior Researcher at the High Assurance Laboratory (HASLab) within [INESC TEC](http://www.inestec.pt).
 
 ## Research
 
