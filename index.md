@@ -29,13 +29,13 @@ Some selected publications:
 * [Why Logical Clocks are Easy](https://doi.org/10.1145/2890782). Carlos Baquero and Nuno Preguiça. 2016. Communications of the ACM 59, 4 (March 2016), 43-47.
 * [A Survey of Distributed Data Aggregation Algorithms](https://doi.org/10.1109/COMST.2014.2354398). Paulo Jesus, Carlos Baquero, Paulo Sérgio Almeida. IEEE Communications Surveys and Tutorials. 2015.
 * [Flow updating: Fault-tolerant aggregation for dynamic networks](https://doi.org/10.1016/j.jpdc.2015.02.003). Paulo Jesus, Carlos Baquero, Paulo Sérgio Almeida. Journal of Parallel and Distributed Computing, Volume 78, April 2015.
-* Extrema propagation: Fast distributed estimation of sums and network sizes Carlos Baquero, Paulo Sérgio Almeida, Raquel Menezes, Paulo Jesus. IEEE Transactions on Parallel and Distributed Systems. Volume 23, Issue 4. 2012.
-* Conflict-Free Replicated Data Types. Marc Shapiro, Nuno M. Preguiça, Carlos Baquero, Marek Zawirski. Stabilization, Safety, and Security of Distributed Systems. LNCS, Springer Verlag, 2011.
-* Scalable Bloom Filters. Paulo Sérgio Almeida, Carlos Baquero, Nuno Preguiça, David Hutchison. Information Processing Letters. Volume 101, Issue 6. Pages 255-261. 2007.
+* [Extrema propagation: Fast distributed estimation of sums and network sizes](https://doi.org/10.1109/TPDS.2011.209). Carlos Baquero, Paulo Sérgio Almeida, Raquel Menezes, Paulo Jesus. IEEE Transactions on Parallel and Distributed Systems. Volume 23, Issue 4. 2012.
+* [Conflict-Free Replicated Data Types](https://doi.org/10.1007/978-3-642-24550-3_29). Marc Shapiro, Nuno M. Preguiça, Carlos Baquero, Marek Zawirski. Stabilization, Safety, and Security of Distributed Systems. LNCS, Springer Verlag, 2011.
+* [Scalable Bloom Filters](https://doi.org/10.1016/j.ipl.2006.10.007). Paulo Sérgio Almeida, Carlos Baquero, Nuno Preguiça, David Hutchison. Information Processing Letters. Volume 101, Issue 6. Pages 255-261. 2007.
 
 ## Service 
 
-I am contributing to the lunch of [JSys](https://escholarship.org/uc/jsys/eb) (Journal of Systems Research) in the editorial board, a diamond open-access journal covering all areas of computer systems research.
+I am contributing to the launch of [JSys](https://escholarship.org/uc/jsys/eb) (Journal of Systems Research) in the editorial board, a diamond open-access journal covering all areas of computer systems research.
 
 PC Member:
 
