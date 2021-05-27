@@ -23,7 +23,7 @@ I am contributing to the lunch of [JSys](https://escholarship.org/uc/jsys/eb) (J
 
 PC Member:
 
-[PaPoC'20](https://papoc-workshop.github.io/2020/), SRDS'19 (PC), SRDS'18 (PC), PaPoC'17 (PC), DAIS'17 (PC), W-PSDS'16 (PC), PaPoC'16 (PC), DAIS'16 (PC), DCOSS'16 (PC), W-PSDS'15 (PC), DAIS'15 (PC), Middleware'15 (PC), PaPoC'15 (Co-Chair), DAIS'14 (PC), Middleware'14 (PC), EuroPar'13 (PC).
+[PaPoC'20](https://papoc-workshop.github.io/2020/), [SRDS'19](https://srds2019.projet.liris.cnrs.fr), [SRDS'18](http://www.lasid.ufba.br/srds2018/view/index.php), [PaPoC'17](https://software.imdea.org//Conferences/PAPOC17/), [DAIS'17](http://2017.discotec.org), [W-PSDS'16](https://wpsds.lsd.di.uminho.pt/2016/), [PaPoC'16](https://www2.ucsc.edu/papoc-2016/index.shtml), DAIS'16, DCOSS'16, [W-PSDS'15](https://wpsds.lsd.di.uminho.pt/2015/cfp.html), DAIS'15 (PC), Middleware'15 (PC), PaPoC'15 (Co-Chair), DAIS'14 (PC), Middleware'14 (PC), EuroPar'13 (PC).
 
 ## Invited Talks
 
