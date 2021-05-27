@@ -25,13 +25,33 @@ PC Member:
 
 [PaPoC'20](https://papoc-workshop.github.io/2020/), [SRDS'19](https://srds2019.projet.liris.cnrs.fr), [SRDS'18](http://www.lasid.ufba.br/srds2018/view/index.php), [PaPoC'17](https://software.imdea.org//Conferences/PAPOC17/), [DAIS'17](http://2017.discotec.org), [W-PSDS'16](https://wpsds.lsd.di.uminho.pt/2016/), [PaPoC'16](https://www2.ucsc.edu/papoc-2016/index.shtml), DAIS'16, DCOSS'16, [W-PSDS'15](https://wpsds.lsd.di.uminho.pt/2015/cfp.html), DAIS'15 (PC), Middleware'15 (PC), PaPoC'15 (Co-Chair), DAIS'14 (PC), Middleware'14 (PC), EuroPar'13 (PC).
 
-## Invited Talks
+## Talks
 
-Redis Day London, Nov 2018. Code Mesh LDN, Nov 2018. Redis Conference, Apr 2018. Papers-we-Love Madrid, Sep 2016. Berlin Buzzwords 2016. Workshop on Highly-Scalable Distributed Systems, Jan 2015. Nova-LINCS Seminar Series, Dec 2014. Basho Ricon, Oct 2014.
-Meetings: Dagstuhl 19442, Oct 2019. Shonan PL4DS, May 2019. Dagstuhl 18091, Fev 2018. Dagstuhl 13081, Fev 2013.
+Industry:
+
+* Redis Day London, Nov 2018. 
+* Code Mesh LDN, Nov 2018. 
+* Redis Conference, Apr 2018. 
+* Papers-we-Love Madrid, Sep 2016. 
+* Berlin Buzzwords 2016. 
+* Basho Ricon, Oct 2014.
+
+Meetings: 
+
+* Dagstuhl 19442, Oct 2019. 
+* Shonan PL4DS, May 2019. 
+* Dagstuhl 18091, Fev 2018. 
+* Dagstuhl 13081, Fev 2013.
 
 
-## Supervisions (concluded):
+## Advising
+
+Current:
+
+* Georges Younes, MAPi Phd
+* Vitor Enes, MAPI PhD
+
+Alumni:
 
 * Broadcast Cancellation in Unstructured Networks. Rui Lima. PhD, 2018.
 * Robust Distributed Data Aggregation. Paulo Jesus . PhD, 2012
@@ -43,5 +63,5 @@ Meetings: Dagstuhl 19442, Oct 2019. Shonan PL4DS, May 2019. Dagstuhl 18091, Fev 
 
 * DBLP
 * Google Scholar
-* ACM DL
+* ACM DL(https://dl.acm.org/profile/81100441005)
 * ORCID
