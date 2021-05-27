@@ -19,6 +19,20 @@ Past:
 * [LightKone](https://www.lightkone.eu) - Lightweight computation for networks at the edge
 * [SyncFree](https://pages.lip6.fr/syncfree/index.html) -  Closing the gap between consistency and availability
 
+## Publications
+
+Some selected publications:
+
+* Efficient Synchronization of State-based CRDTs. Vitor Enes, Paulo Sérgio Almeida, Carlos Baquero, João Leitão. Proceedings of the 35th IEEE International Conference on Data Engineering, ICDE 2019.
+* Delta state replicated data types. Paulo Sérgio Almeida, Ali Shoker, Carlos Baquero. Elsevier. Journal of Parallel and Distributed Computing. Volume 111. January 2018.
+* Fault-tolerant aggregation: Flow-Updating meets Mass-Distribution. Paulo S érgio Almeida, Carlos Baquero, Martín Farach-Colton, Paulo Jesus, Miguel A. Mosteiro. Springer, Distributed Computing. Volume 30 Issue 4. 2017.
+* Why Logical Clocks are Easy. Carlos Baquero and Nuno Preguiça. 2016. Communications of the ACM 59, 4 (March 2016), 43-47.
+* A Survey of Distributed Data Aggregation Algorithms. Paulo Jesus, Carlos Baquero, Paulo S ́ergio Almeida. IEEE Communications Surveys and Tutorials. 2015.
+* Flow updating: Fault-tolerant aggregation for dynamic networks. Paulo Jesus, Carlos Baquero, Paulo Sérgio Almeida. Journal of Parallel and Distributed Computing, Volume 78, April 2015.
+* Extrema propagation: Fast distributed estimation of sums and network sizes Carlos Baquero, Paulo Almeida, Raquel Menezes, Paulo Jesus. IEEE Transactions on Parallel and Distributed Systems. Volume 23, Issue 4. 2012.
+* Conflict-Free Replicated Data Types. Marc Shapiro, Nuno M. Preguiça, Carlos Baquero, Marek Zawirski. Stabilization, Safety, and Security of Distributed Systems. LNCS, Springer Verlag, 2011.
+* Scalable Bloom Filters. Paulo Sérgio Almeida, Carlos Baquero, Nuno Pregui ̧ca, David Hutchison. Information Processing Letters. Volume 101, Issue 6. Pages 255-261. 2007.
+
 ## Service 
 
 I am contributing to the lunch of [JSys](https://escholarship.org/uc/jsys/eb) (Journal of Systems Research) in the editorial board, a diamond open-access journal covering all areas of computer systems research.
