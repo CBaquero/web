@@ -31,8 +31,8 @@ PC Member:
 
 Industry:
 
-* Redis Day London, Nov 2018. [[Slides]](https://www.slideshare.net/RedisLabs/redisday-london-2018-crdts-and-redis-from-sequential-to-concurrent-executions) [[Video]](https://www.youtube.com/watch?v=ZoMIzBM0nf4)
-* Code Mesh LDN, Nov 2018. 
+* [Redis Day London](https://redislabs.com/videos/redisday-london-2018/), Nov 2018. [[Slides]](https://www.slideshare.net/RedisLabs/redisday-london-2018-crdts-and-redis-from-sequential-to-concurrent-executions) [[Video]](https://www.youtube.com/watch?v=ZoMIzBM0nf4)
+* [Code Mesh](https://codesync.global/conferences/code-mesh-2018/#Speakers) LDN, Nov 2018. [[Video]](https://www.youtube.com/watch?v=hw4agjz4240) 
 * Redis Conference, Apr 2018. 
 * Papers-we-Love Madrid, Sep 2016. 
 * Berlin Buzzwords 2016. 
