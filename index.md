@@ -6,6 +6,8 @@ I'm an Associate Professor with Habilitation in the Informatics Department, [Uni
 
 My research interests cover data management in eventual consistent settings, distributed data aggregation and causality tracking. In the last years I have collaborated with my co-authors in the development of data summary mechanisms such as [Scalable Bloom Filters](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NAUDTpMAAAAJ&citation_for_view=NAUDTpMAAAAJ:u-x6o8ySG0sC), causality tracking for dynamic settings with [Interval Tree Clocks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NAUDTpMAAAAJ&citation_for_view=NAUDTpMAAAAJ:MXK_kJrjxJIC) and [Dotted Version Vectors](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NAUDTpMAAAAJ&sortby=pubdate&citation_for_view=NAUDTpMAAAAJ:rFyVMFCKTwsC) and in predictable eventual consistency with [Conflict-Free Replicated Data Types](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NAUDTpMAAAAJ&citation_for_view=NAUDTpMAAAAJ:M3ejUd6NZC8C). My work has been applied in the [Riak](https://www.infoq.com/news/2014/09/basho-riak-2.0) distributed database, [Redis](https://docs.redislabs.com/latest/rs/references/developing-for-active-active/) CRDBs, [Akka](https://doc.akka.io/docs/akka/current/typed/distributed-data.html) distributed data, Microsoft Azure [Cosmos DB](https://azure.microsoft.com/en-in/blog/azure-cosmos-db-pushing-the-frontier-of-globally-distributed-databases/), and is running in production systems serving millions of users worldwide.
 
+Contact: carlos.baquero (at) inesctec.pt
+
 ## Projects
 
 Ongoing:
