@@ -54,18 +54,18 @@ Industry:
 
 Meetings: 
 
-* Dagstuhl [19442](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442), Oct 2019. 
-* Shonan [149](https://shonan.nii.ac.jp/seminars/149/), May 2019. 
-* Dagstuhl [18091](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18091), Fev 2018. 
-* Dagstuhl [13081](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=13081), Fev 2013.
+* Dagstuhl [19442](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442), Oct 2019. Programming Languages for Distributed Systems and Distributed Data Management.
+* Shonan [149](https://shonan.nii.ac.jp/seminars/149/), May 2019. Programming Languages for Distributed Systems.
+* Dagstuhl [18091](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18091), Fev 2018. Data Consistency in Distributed Systems: Algorithms, Programs, and Databases.
+* Dagstuhl [13081](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=13081), Fev 2013. Consistency In Distributed Systems.
 
 
 ## Advising
 
 Current:
 
-* Georges Younes, MAPi Phd
-* Vitor Enes, MAPI PhD
+* [Georges Younes](https://haslab.uminho.pt/gry/), MAPi Phd
+* [Vitor Enes](https://vitorenes.org), MAPi PhD
 
 Alumni:
 
