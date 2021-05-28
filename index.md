@@ -1,6 +1,7 @@
-# Carlos Baquero
 
 ![Carlos Baquero Pic](https://cbaquero.github.io/web/cbmsquare.jpg)
+
+# Carlos Baquero
 
 ## Short Bio
 
