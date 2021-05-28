@@ -54,10 +54,10 @@ Industry:
 
 Meetings: 
 
-* Dagstuhl 19442, Oct 2019. 
-* Shonan PL4DS, May 2019. 
-* Dagstuhl 18091, Fev 2018. 
-* Dagstuhl 13081, Fev 2013.
+* Dagstuhl [19442](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442), Oct 2019. 
+* Shonan [149](https://shonan.nii.ac.jp/seminars/149/), May 2019. 
+* Dagstuhl [18091](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18091), Fev 2018. 
+* Dagstuhl [13081](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=13081), Fev 2013.
 
 
 ## Advising
