@@ -81,7 +81,7 @@ Alumni:
 
 [DBLP](https://dblp.org/pid/42/2941.html), [Google Scholar](https://scholar.google.com/citations?user=NAUDTpMAAAAJ&hl=en), [ACM DL](https://dl.acm.org/profile/81100441005), [ORCID](https://orcid.org/0000-0002-3933-6850), [Publons](https://publons.com/researcher/2795888/carlos-baquero/), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56127073700)
 
-## Etc
+## Miscellaneous
 
 * My Erdős number is 3, some paths are:
   * Karl Henrik Johansson - Béla Bollobás - Paul Erdős
