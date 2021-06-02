@@ -88,3 +88,5 @@ Alumni:
   * Antonio Fernández Anta - Shmuel Zaks - Paul Erdős
   * Martín Farach-Colton - Noga Alon - Paul Erdős
 
+* My wife [Raquel Menezes](http://w3.math.uminho.pt/~rmenezes/) is Associate Professor in Statistics at the Mathematics Department in Minho University.
+
