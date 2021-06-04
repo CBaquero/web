@@ -37,7 +37,7 @@ Some selected publications:
 
 ## Classes
 
-* Large Scale Dsitributed Systems, taught at [MIEI](https://miei.di.uminho.pt) at U. Minho in 2020/2021. Slides: [Intro](https://cbaquero.github.io/web/pdf/SDLintro2021.pdf),[Graphs](https://cbaquero.github.io/web/pdf/SDgraphs2021.pdf),[P2P](https://cbaquero.github.io/web/pdf/SDLp2p2021.pdf),[Time](https://cbaquero.github.io/web/pdf/SDLtime2021.pdf),[EC](https://cbaquero.github.io/web/pdf/SDLec2021.pdf)
+* Large Scale Distributed Systems, taught at [MIEI](https://miei.di.uminho.pt) at U. Minho in 2020/2021. Slides: [Intro](https://cbaquero.github.io/web/pdf/SDLintro2021.pdf),[Graphs](https://cbaquero.github.io/web/pdf/SDLgraphs2021.pdf),[P2P](https://cbaquero.github.io/web/pdf/SDLp2p2021.pdf),[Time](https://cbaquero.github.io/web/pdf/SDLtime2021.pdf),[EC](https://cbaquero.github.io/web/pdf/SDLec2021.pdf)
 
 ## Service 
 
