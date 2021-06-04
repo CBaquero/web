@@ -35,6 +35,10 @@ Some selected publications:
 * [Conflict-Free Replicated Data Types](https://doi.org/10.1007/978-3-642-24550-3_29). Marc Shapiro, Nuno M. Preguiça, Carlos Baquero, Marek Zawirski. Stabilization, Safety, and Security of Distributed Systems. LNCS, Springer Verlag, 2011.
 * [Scalable Bloom Filters](https://doi.org/10.1016/j.ipl.2006.10.007). Paulo Sérgio Almeida, Carlos Baquero, Nuno Preguiça, David Hutchison. Information Processing Letters. Volume 101, Issue 6. Pages 255-261. 2007.
 
+## Classes
+
+* 2020/2021, Large Scale Dsitributed Systems, DI UMinho. Slides: [Intro](https://cbaquero.github.io/web/pdf/SDLintro2021.pdf),[Graphs](https://cbaquero.github.io/web/pdf/SDgraphs2021.pdf),[P2P](https://cbaquero.github.io/web/pdf/SDLp2p2021.pdf),[Time](https://cbaquero.github.io/web/pdf/SDLtime2021.pdf),[EC](https://cbaquero.github.io/web/pdf/SDLec2021.pdf)
+
 ## Service 
 
 I am contributing to the launch of [JSys](https://escholarship.org/uc/jsys/eb) (Journal of Systems Research) in the editorial board, a diamond open-access journal covering all areas of computer systems research.
