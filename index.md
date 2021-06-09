@@ -35,10 +35,21 @@ Some selected publications:
 * [Conflict-Free Replicated Data Types](https://doi.org/10.1007/978-3-642-24550-3_29). Marc Shapiro, Nuno M. Preguiça, Carlos Baquero, Marek Zawirski. Stabilization, Safety, and Security of Distributed Systems. LNCS, Springer Verlag, 2011.
 * [Scalable Bloom Filters](https://doi.org/10.1016/j.ipl.2006.10.007). Paulo Sérgio Almeida, Carlos Baquero, Nuno Preguiça, David Hutchison. Information Processing Letters. Volume 101, Issue 6. Pages 255-261. 2007.
 
+For a full list of papers check my [Google Scholar](https://scholar.google.com/citations?user=NAUDTpMAAAAJ&hl=en).
+
 ## Classes
 
-* Large Scale Distributed Systems, taught at [MIEI](https://miei.di.uminho.pt) at U. Minho in 2020/2021. 
+### 2021/2022 @ FEUP
+
+* Sistemas Distribuídos de Larga Escala. Mestrado em Engenharia Informática e Computação.
+* Sistemas Operativos. Licenciatura em Engenharia Informática e Computação.
+* Sistemas Computacionais. Licenciatura em Engenharia Eletrotécnica e de Computadores.
+
+### 2020/2021 @ UMinho
+
+* Large Scale Distributed Systems, taught at [MIEI](https://miei.di.uminho.pt). 
   * Slides: [Intro](https://cbaquero.github.io/web/pdf/SDLintro2021.pdf),[Graphs](https://cbaquero.github.io/web/pdf/SDLgraphs2021.pdf),[P2P](https://cbaquero.github.io/web/pdf/SDLp2p2021.pdf),[Time](https://cbaquero.github.io/web/pdf/SDLtime2021.pdf),[EC](https://cbaquero.github.io/web/pdf/SDLec2021.pdf)
+* Distributed Systems, taught at [MIEI](https://miei.di.uminho.pt) and [MIETI](http://mieti.eng.uminho.pt).
 
 ## Service 
 
