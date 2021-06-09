@@ -41,9 +41,9 @@ For a full list of papers check my [Google Scholar](https://scholar.google.com/c
 
 ### 2021/2022 @ FEUP
 
-* Sistemas Distribuídos de Larga Escala. Mestrado em Engenharia Informática e Computação.
-* Sistemas Operativos. Licenciatura em Engenharia Informática e Computação.
-* Sistemas Computacionais. Licenciatura em Engenharia Eletrotécnica e de Computadores.
+* Large Scale Distributed Systems (Sistemas Distribuídos de Larga Escala). Mestrado em Engenharia Informática e Computação.
+* Operating Systems (Sistemas Operativos). Licenciatura em Engenharia Informática e Computação.
+* Operating Systems (Sistemas Computacionais). Licenciatura em Engenharia Eletrotécnica e de Computadores.
 
 ### 2020/2021 @ UMinho
 
