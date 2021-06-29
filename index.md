@@ -43,7 +43,6 @@ For a full list of papers check my [Google Scholar](https://scholar.google.com/c
 
 * Large Scale Distributed Systems (Sistemas Distribuídos de Larga Escala). Mestrado em Engenharia Informática e Computação.
 * Operating Systems (Sistemas Operativos). Licenciatura em Engenharia Informática e Computação.
-* Operating Systems (Sistemas Computacionais). Licenciatura em Engenharia Eletrotécnica e de Computadores.
 
 ### 2020/2021 @ UMinho
 
