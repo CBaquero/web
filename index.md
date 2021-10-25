@@ -60,7 +60,7 @@ For a full list of papers check my [Google Scholar](https://scholar.google.com/c
 
 ## Service 
 
-* **PaPoC**. Steering committee of the workshop series on Principles and Practice of Consistency for Distributed Data, regularly hosted with [EuroSys](http://www.eurosys.org).
+* **PaPoC**. Steering committee of the workshop series on Principles and Practice of Consistency for Distributed Data, regularly hosted with [EuroSys](http://www.eurosys.org). [PaPoC'21](https://dl.acm.org/doi/proceedings/10.1145/3447865)
 
 * **JSys**. I am contributing to the launch of [JSys](https://escholarship.org/uc/jsys/eb) (Journal of Systems Research) in the editorial board, a diamond open-access journal covering all areas of computer systems research.
 
