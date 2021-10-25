@@ -38,6 +38,13 @@ Some selected publications:
 
 For a full list of papers check my [Google Scholar](https://scholar.google.com/citations?user=NAUDTpMAAAAJ&hl=en).
 
+## Blog posts
+
+* [We Are Camille](https://cacm.acm.org/blogs/blog-cacm/255648-we-are-camille/fulltext). September 2021, BLOG@CACM.
+* [Aggregation is not Replication](https://haslab.wordpress.com/2018/11/23/aggregation-is-not-replication/). November 2018, HASLab.
+* [Version Vectors are not Vector Clocks](https://haslab.wordpress.com/2011/07/08/version-vectors-are-not-vector-clocks/). July 2011, HASLab.
+
+
 ## Classes
 
 ### 2021/2022 @ FEUP
