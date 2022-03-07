@@ -26,6 +26,7 @@ Past:
 
 Some selected publications:
 
+* [Picking publication targets](https://dl.acm.org/doi/10.1145/3510545). Carlos Baquero. Communications of the ACM. March 2022.
 * [Efficient Replication via Timestamp Stability](https://doi.org/10.1145/3447786.3456236). Vitor Enes, Carlos Baquero, Alexey Gotsman, Pierre Sutra. EuroSys, 2021.
 * [Efficient Synchronization of State-based CRDTs](https://doi.org/10.1109/ICDE.2019.00022). Vitor Enes, Paulo Sérgio Almeida, Carlos Baquero, João Leitão. Proceedings of the 35th IEEE International Conference on Data Engineering, ICDE 2019.
 * [Delta state replicated data types](https://doi.org/10.1016/j.jpdc.2017.08.003). Paulo Sérgio Almeida, Ali Shoker, Carlos Baquero. Elsevier. Journal of Parallel and Distributed Computing. Volume 111. January 2018.
