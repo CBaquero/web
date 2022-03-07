@@ -94,7 +94,7 @@ Meetings:
 
 Current:
 
-* Dynamic End-to-End Reliable Causal Delivery Middleware for Geo-Replicated Services. [Georges Younes](https://haslab.uminho.pt/gry/), MAPi Phd
+* Dynamic End-to-End Reliable Causal Delivery Middleware for Geo-Replicated Services. [Georges Younes](https://haslab.uminho.pt/gry/), MAPi PhD
 * Planet-Scale Leaderless Consensus. [Vitor Enes](https://vitorenes.org), MAPi PhD
 
 Alumni:
