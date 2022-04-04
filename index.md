@@ -41,6 +41,7 @@ For a full list of papers check my [Google Scholar](https://scholar.google.com/c
 
 ## Blog posts
 
+* [Biases in Author Recognition](https://cacm.acm.org/blogs/blog-cacm/259718-biases-in-author-recognition/fulltext). April 2022, BLOG@ACM.
 * [Publishing, The Choice and The Luck](https://cacm.acm.org/blogs/blog-cacm/256994-publishing-the-choice-and-the-luck/fulltext). November 2021, BLOG@CACM.
 * [We Are Camille](https://cacm.acm.org/blogs/blog-cacm/255648-we-are-camille/fulltext). September 2021, BLOG@CACM.
 * [Aggregation is not Replication](https://haslab.wordpress.com/2018/11/23/aggregation-is-not-replication/). November 2018, HASLab.
