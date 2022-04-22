@@ -44,6 +44,7 @@ For a full list of papers check my [Google Scholar](https://scholar.google.com/c
 * [Biases in Author Recognition](https://cacm.acm.org/blogs/blog-cacm/259718-biases-in-author-recognition/fulltext). April 2022, BLOG@ACM.
 * [Publishing, The Choice and The Luck](https://cacm.acm.org/blogs/blog-cacm/256994-publishing-the-choice-and-the-luck/fulltext). November 2021, BLOG@CACM.
 * [We Are Camille](https://cacm.acm.org/blogs/blog-cacm/255648-we-are-camille/fulltext). September 2021, BLOG@CACM.
+* [Estimating active cases of COVID-19: The unknown matters](https://inesctec.medium.com/estimating-active-cases-of-covid-19-the-unknown-matters-602c3ef952bb). July 2020, INESC TEC.
 * [Aggregation is not Replication](https://haslab.wordpress.com/2018/11/23/aggregation-is-not-replication/). November 2018, HASLab.
 * [Version Vectors are not Vector Clocks](https://haslab.wordpress.com/2011/07/08/version-vectors-are-not-vector-clocks/). July 2011, HASLab.
 
