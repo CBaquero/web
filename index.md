@@ -113,6 +113,7 @@ Alumni:
 
 ## Miscellaneous
 
+* 90 Seconds of Radio fame :) [90 Segundos de Ciência](https://www.rtp.pt/play/p2936/e517656/90-segundos-ciencia)
 * My Erdős number is 3, some paths are:
   * Karl Henrik Johansson - Béla Bollobás - Paul Erdős
   * Antonio Fernández Anta - Shmuel Zaks - Paul Erdős
