@@ -26,6 +26,7 @@ Past:
 
 Some selected publications:
 
+* [The Dynamics of Remembering and Forgetting](https://dl.acm.org/doi/10.1145/3535190). Carlos Baquero, Rosa Cabecinhas. Communications of the ACM. July 2022.
 * [Picking publication targets](https://dl.acm.org/doi/10.1145/3510545). Carlos Baquero. Communications of the ACM. March 2022.
 * [Efficient Replication via Timestamp Stability](https://doi.org/10.1145/3447786.3456236). Vitor Enes, Carlos Baquero, Alexey Gotsman, Pierre Sutra. EuroSys, 2021.
 * [Efficient Synchronization of State-based CRDTs](https://doi.org/10.1109/ICDE.2019.00022). Vitor Enes, Paulo Sérgio Almeida, Carlos Baquero, João Leitão. Proceedings of the 35th IEEE International Conference on Data Engineering, ICDE 2019.
