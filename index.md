@@ -42,7 +42,8 @@ For a full list of papers check my [Google Scholar](https://scholar.google.com/c
 
 ## Blog posts
 
-* [Biases in Author Recognition](https://cacm.acm.org/blogs/blog-cacm/259718-biases-in-author-recognition/fulltext). April 2022, BLOG@ACM.
+* [On the Ethics of Writing With AIs](https://cacm.acm.org/blogs/blog-cacm/263291-on-the-ethics-of-writing-with-ais/fulltext). August 2022, BLOG@CACM.
+* [Biases in Author Recognition](https://cacm.acm.org/blogs/blog-cacm/259718-biases-in-author-recognition/fulltext). April 2022, BLOG@CACM.
 * [Publishing, The Choice and The Luck](https://cacm.acm.org/blogs/blog-cacm/256994-publishing-the-choice-and-the-luck/fulltext). November 2021, BLOG@CACM.
 * [We Are Camille](https://cacm.acm.org/blogs/blog-cacm/255648-we-are-camille/fulltext). September 2021, BLOG@CACM.
 * [Estimating active cases of COVID-19: The unknown matters](https://inesctec.medium.com/estimating-active-cases-of-covid-19-the-unknown-matters-602c3ef952bb). July 2020, INESC TEC.
