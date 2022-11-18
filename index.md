@@ -100,11 +100,12 @@ Meetings:
 
 Current:
 
+* TDB. Pedro Henrique Fernandes. PRODEI PhD
 * Dynamic End-to-End Reliable Causal Delivery Middleware for Geo-Replicated Services. [Georges Younes](https://haslab.uminho.pt/gry/), MAPi PhD
-* Planet-Scale Leaderless Consensus. [Vitor Enes](https://vitorenes.org), MAPi PhD
 
 Alumni:
 
+* Planet-Scale Leaderless Consensus. [Vitor Enes](https://vitorenes.org). PhD, 2022.
 * Broadcast Cancellation in Unstructured Networks. Rui Lima. PhD, 2018.
 * Robust Distributed Data Aggregation. Paulo Jesus . PhD, 2012
 * Causality Tracking in Dynamic Distributed Systems. Victor Fonte . PhD, 2009
