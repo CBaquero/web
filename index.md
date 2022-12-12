@@ -42,6 +42,7 @@ For a full list of papers check my [Google Scholar](https://scholar.google.com/c
 
 ## Blog posts
 
+* [The Legacy of Peer-to-Peer Systems](https://cacm.acm.org/blogs/blog-cacm/267236-the-legacy-of-peer-to-peer-systems/fulltext). December 2022, BLOG@CACM.
 * [On the Ethics of Writing With AIs](https://cacm.acm.org/blogs/blog-cacm/263291-on-the-ethics-of-writing-with-ais/fulltext). August 2022, BLOG@CACM.
 * [Biases in Author Recognition](https://cacm.acm.org/blogs/blog-cacm/259718-biases-in-author-recognition/fulltext). April 2022, BLOG@CACM.
 * [Publishing, The Choice and The Luck](https://cacm.acm.org/blogs/blog-cacm/256994-publishing-the-choice-and-the-luck/fulltext). November 2021, BLOG@CACM.
