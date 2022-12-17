@@ -117,6 +117,8 @@ Alumni:
 
 [DBLP](https://dblp.org/pid/42/2941.html), [Google Scholar](https://scholar.google.com/citations?user=NAUDTpMAAAAJ&hl=en), [ACM DL](https://dl.acm.org/profile/81100441005), [ORCID](https://orcid.org/0000-0002-3933-6850), [Publons](https://publons.com/researcher/2795888/carlos-baquero/), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56127073700)
 
+<a rel="me" href="https://discuss.systems/@xmal">Mastodon: @xmal@discuss.systems</a>
+
 ## Miscellaneous
 
 * 90 Seconds of Radio fame :) [90 Segundos de Ciência](https://www.rtp.pt/play/p2936/e517656/90-segundos-ciencia)
