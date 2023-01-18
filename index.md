@@ -26,6 +26,7 @@ Past:
 
 Some selected publications:
 
+* [Using survey data to estimate the impact of the omicron variant on vaccine efficacy against COVID-19 infection](https://www.nature.com/articles/s41598-023-27951-3). Jesús Rufino et al. (Nature) Scientific Reports. Jan 2023. 
 * [The Dynamics of Remembering and Forgetting](https://dl.acm.org/doi/10.1145/3535190). Carlos Baquero, Rosa Cabecinhas. Communications of the ACM. July 2022.
 * [Picking publication targets](https://dl.acm.org/doi/10.1145/3510545). Carlos Baquero. Communications of the ACM. March 2022.
 * [Efficient Replication via Timestamp Stability](https://doi.org/10.1145/3447786.3456236). Vitor Enes, Carlos Baquero, Alexey Gotsman, Pierre Sutra. EuroSys, 2021.
