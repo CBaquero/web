@@ -56,6 +56,12 @@ For a full list of papers check my [Google Scholar](https://scholar.google.com/c
 
 ## Classes
 
+### 2022/2023 @ FEUP
+
+* Large Scale Distributed Systems (Sistemas Distribuídos de Larga Escala). Mestrado em Engenharia Informática e Computação.
+* Distributed and Parallel Computing (Computação Paralela e Distribuída). Licenciatura em Engenharia Informática e Computação.
+* Operating Systems (Sistemas Operativos). Licenciatura em Engenharia Informática e Computação.
+
 ### 2021/2022 @ FEUP
 
 * [Large Scale Distributed Systems](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=486245) (Sistemas Distribuídos de Larga Escala). Mestrado em Engenharia Informática e Computação.
@@ -83,6 +89,7 @@ PC Member:
 
 Industry:
 
+* [J on the Beach](https://www.jonthebeach.com), Málaga, May 2023. 
 * [J on the Beach](https://www.jonthebeach.com), Málaga, Apr 2022. [[Video]](https://www.youtube.com/watch?v=UHKthksFBHA)
 * [Redis Day London](https://redislabs.com/videos/redisday-london-2018/), Nov 2018. [[Slides]](https://www.slideshare.net/RedisLabs/redisday-london-2018-crdts-and-redis-from-sequential-to-concurrent-executions) [[Video]](https://www.youtube.com/watch?v=ZoMIzBM0nf4)
 * [Code Mesh](https://codesync.global/conferences/code-mesh-2018/#Speakers) LDN, Nov 2018. [[Video]](https://www.youtube.com/watch?v=hw4agjz4240) 
