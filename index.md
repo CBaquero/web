@@ -43,6 +43,7 @@ For a full list of papers check my [Google Scholar](https://scholar.google.com/c
 
 ## Blog posts
 
+* [What is an Author?](https://cacm.acm.org/blogs/blog-cacm/269867-what-is-an-author/fulltext). January 2023, BLOG@CACM.
 * [The Legacy of Peer-to-Peer Systems](https://cacm.acm.org/blogs/blog-cacm/267236-the-legacy-of-peer-to-peer-systems/fulltext). December 2022, BLOG@CACM.
 * [On the Ethics of Writing With AIs](https://cacm.acm.org/blogs/blog-cacm/263291-on-the-ethics-of-writing-with-ais/fulltext). August 2022, BLOG@CACM.
 * [Biases in Author Recognition](https://cacm.acm.org/blogs/blog-cacm/259718-biases-in-author-recognition/fulltext). April 2022, BLOG@CACM.
