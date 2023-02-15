@@ -110,7 +110,10 @@ Meetings:
 
 Current:
 
+* Distributed Statistical Learning. Daniel Tinoco. Math PhD
 * TDB. Pedro Henrique Fernandes. PRODEI PhD
+* Scalable Solutions for Eventual Consistency. Juliane Marubayashi. MEI MSc
+* A Library of Transactional CRDTs. Luís Recharte. MEI MSc
 
 Alumni:
 
