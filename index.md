@@ -79,6 +79,8 @@ For a full list of papers check my [Google Scholar](https://scholar.google.com/c
 
 ## Service 
 
+* **DARE**. [First Summer School on Distributed and Replicated Environments (DARE 2023)](https://soft.vub.ac.be/dare23/)
+
 * **DisCoTec**. IFIP, EAPLS - [DisCoTec 2023](https://www.discotec.org/2023/) - 18th International Federated Conference on Distributed Computing Techniques. Publicity Chair.
 
 * **PaPoC**. Steering committee of the workshop series on Principles and Practice of Consistency for Distributed Data, regularly hosted with [EuroSys](http://www.eurosys.org). Links to ACM DL: [PaPoC'21](https://dl.acm.org/doi/proceedings/10.1145/3447865),[PaPoC'20](https://dl.acm.org/doi/proceedings/10.1145/3380787),[PaPoC'19](https://dl.acm.org/doi/proceedings/10.1145/3301419).
