@@ -101,7 +101,7 @@ Industry:
 * CRDTs: From sequential to concurrent executions [Code Mesh](https://codesync.global/conferences/code-mesh-2018/#Speakers) LDN, Nov 2018. [[Video]](https://www.youtube.com/watch?v=hw4agjz4240) 
 * [Redis Conference](https://redislabs.com/videos/redisconf-2018/), Apr 2018. 
 * Papers-we-Love Madrid, Sep 2016. 
-* [Berlin Buzzwords](https://2016.berlinbuzzwords.de), 2016. [[Video]](https://www.youtube.com/embed/paHhOD5zI0w)
+* Causality is simple [Berlin Buzzwords](https://2016.berlinbuzzwords.de), 2016. [[Video]](https://www.youtube.com/embed/paHhOD5zI0w)
 * Designing for Partition Tolerance with CRDTs [Basho Ricon](http://ricon.io/archive/2014/), Oct 2014.
 
 Meetings: 
