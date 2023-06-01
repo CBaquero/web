@@ -96,13 +96,13 @@ PC Member:
 Industry:
 
 * The Legacy of Peer-to-Peer Systems [J on the Beach](https://www.jonthebeach.com), Málaga, May 2023. [[Video]](https://www.youtube.com/watch?v=_mB8nEfoOX4)
-* [J on the Beach](https://2022.jonthebeach.com), Málaga, Apr 2022. [[Video]](https://www.youtube.com/watch?v=UHKthksFBHA)
-* [Redis Day London](https://redislabs.com/videos/redisday-london-2018/), Nov 2018. [[Slides]](https://www.slideshare.net/RedisLabs/redisday-london-2018-crdts-and-redis-from-sequential-to-concurrent-executions) [[Video]](https://www.youtube.com/watch?v=ZoMIzBM0nf4)
-* [Code Mesh](https://codesync.global/conferences/code-mesh-2018/#Speakers) LDN, Nov 2018. [[Video]](https://www.youtube.com/watch?v=hw4agjz4240) 
+* CRDTs: Building blocks for high availability and beyond [J on the Beach](https://2022.jonthebeach.com), Málaga, Apr 2022. [[Video]](https://www.youtube.com/watch?v=UHKthksFBHA)
+* CRDTs and Redis From sequential to concurrent executions [Redis Day London](https://redislabs.com/videos/redisday-london-2018/), Nov 2018. [[Slides]](https://www.slideshare.net/RedisLabs/redisday-london-2018-crdts-and-redis-from-sequential-to-concurrent-executions) [[Video]](https://www.youtube.com/watch?v=ZoMIzBM0nf4)
+* CRDTs: From sequential to concurrent executions [Code Mesh](https://codesync.global/conferences/code-mesh-2018/#Speakers) LDN, Nov 2018. [[Video]](https://www.youtube.com/watch?v=hw4agjz4240) 
 * [Redis Conference](https://redislabs.com/videos/redisconf-2018/), Apr 2018. 
 * Papers-we-Love Madrid, Sep 2016. 
 * [Berlin Buzzwords](https://2016.berlinbuzzwords.de), 2016. [[Video]](https://www.youtube.com/embed/paHhOD5zI0w)
-* [Basho Ricon](http://ricon.io/archive/2014/), Oct 2014.
+* Designing for Partition Tolerance with CRDTs [Basho Ricon](http://ricon.io/archive/2014/), Oct 2014.
 
 Meetings: 
 
