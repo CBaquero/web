@@ -80,6 +80,8 @@ For a full list of papers check my [Google Scholar](https://scholar.google.com/c
 
 ## Service 
 
+* **INFORUM 2024**
+  
 * **DARE**. [First Summer School on Distributed and Replicated Environments (DARE 2023)](https://soft.vub.ac.be/dare23/)
 
 * **DisCoTec**. IFIP, EAPLS - [DisCoTec 2023](https://www.discotec.org/2023/) - 18th International Federated Conference on Distributed Computing Techniques. Publicity Chair.
@@ -118,7 +120,6 @@ Meetings:
 Current:
 
 * Distributed Statistical Learning. Daniel Tinoco. Math PhD
-* TDB. Pedro Henrique Fernandes. PRODEI PhD
 * Scalable Solutions for Eventual Consistency. Juliane Marubayashi. MEI MSc
 * A Library of Transactional CRDTs. Luís Recharte. MEI MSc
 
