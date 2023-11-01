@@ -43,6 +43,7 @@ For a full list of papers check my [Google Scholar](https://scholar.google.com/c
 
 ## Blog posts
 
+* [All Photos are Fake until Proven Real](https://cacm.acm.org/blogs/blog-cacm/277727-all-photos-are-fake-until-proven-real/fulltext). November 2023, BLOG@CACM.
 * [Egalitarian Authorship](https://cacm.acm.org/blogs/blog-cacm/274657-egalitarian-authorship/fulltext). July 2023, BLOG@CACM.
 * [A Year Embedded in the Crypto-NFT Space](https://cacm.acm.org/blogs/blog-cacm/271740-a-year-embedded-in-the-crypto-nft-space/fulltext). April 2023, BLOG@CACM.
 * [What is an Author?](https://cacm.acm.org/blogs/blog-cacm/269867-what-is-an-author/fulltext). January 2023, BLOG@CACM.
