@@ -87,9 +87,9 @@ For a full list of papers check my [Google Scholar](https://scholar.google.com/c
 
 * **DisCoTec**. IFIP, EAPLS - [DisCoTec 2023](https://www.discotec.org/2023/) - 18th International Federated Conference on Distributed Computing Techniques. Publicity Chair.
 
-* **PaPoC**. Steering committee of the workshop series on Principles and Practice of Consistency for Distributed Data, regularly hosted with [EuroSys](http://www.eurosys.org). Links to ACM DL: [PaPoC'21](https://dl.acm.org/doi/proceedings/10.1145/3447865),[PaPoC'20](https://dl.acm.org/doi/proceedings/10.1145/3380787),[PaPoC'19](https://dl.acm.org/doi/proceedings/10.1145/3301419).
+* **PaPoC**. Steering committee chair of the workshop series on Principles and Practice of Consistency for Distributed Data, regularly hosted with [EuroSys](http://www.eurosys.org). Links to ACM DL: [PaPoC'21](https://dl.acm.org/doi/proceedings/10.1145/3447865),[PaPoC'20](https://dl.acm.org/doi/proceedings/10.1145/3380787),[PaPoC'19](https://dl.acm.org/doi/proceedings/10.1145/3301419).
 
-* **JSys**. I am contributing to the launch of [JSys](https://escholarship.org/uc/jsys/eb) (Journal of Systems Research) in the editorial board, a diamond open-access journal covering all areas of computer systems research.
+* **JSys**. I contributed to the launch of [JSys](https://escholarship.org/uc/jsys/eb) (Journal of Systems Research) in the editorial board (2021-2022), a diamond open-access journal covering all areas of computer systems research.
 
 PC Member:
 
