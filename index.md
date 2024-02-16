@@ -2,7 +2,7 @@
 
 ![Carlos Baquero Pic](https://cbaquero.github.io/web/cbmsquare.jpg)
 
-## Short Bio
+## Short Bio 
 
 I am a Professor in the [Department of Informatics Engineering](https://dei.fe.up.pt/en/home-page/) within [FEUP](https://sigarra.up.pt/feup/en/web_page.inicial), and area coordinator at the High Assurance Laboratory (HASLab) within [INESC TEC](http://www.inestec.pt).
 From 1994 till mid 2021 I was affiliated with the [Informatics Department](https://di.uminho.pt), [Universidade do Minho](http://www.uminho.pt), where I concluded my PhD (2000) and Habilitation/**Agregação** (2018).
