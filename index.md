@@ -57,6 +57,8 @@ For a full list of papers check my [Google Scholar](https://scholar.google.com/c
 * [Aggregation is not Replication](https://haslab.wordpress.com/2018/11/23/aggregation-is-not-replication/). November 2018, HASLab.
 * [Version Vectors are not Vector Clocks](https://haslab.wordpress.com/2011/07/08/version-vectors-are-not-vector-clocks/). July 2011, HASLab.
 
+My posts and articles at CACM are collected in the [author page](https://cacm.acm.org/author/carlos-baquero/).
+
 ## Press/Op-ed articles (in Portuguese)
 
 * [Acesso aberto, o “slow science” e o “fast science”](https://expresso.pt/opiniao/2023-02-21-Acesso-aberto-o-slow-science-e-o-fast-science-cde281f4). January 2023, Expresso.
