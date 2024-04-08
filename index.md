@@ -154,6 +154,6 @@ Alumni:
   * Karl Henrik Johansson - Béla Bollobás - Paul Erdős
   * Antonio Fernández Anta - Shmuel Zaks - Paul Erdős
   * Martín Farach-Colton - Noga Alon - Paul Erdős
-* My first ["publications"](https://cbaquero.github.io/web/pdf/clube_z80_-_24-cbm.pdf) were a done in a local computing magazine, Clube Z80, Sep 1984 (I was 15 and wrote as Carlos Moreno).  
+* My first ["publications"](https://cbaquero.github.io/web/pdf/clube_z80_-_24-cbm.pdf) were done in a local computing magazine, Clube Z80, Sep 1984 (I was 15 and wrote as Carlos Moreno).  
 * My wife [Raquel Menezes](http://w3.math.uminho.pt/~rmenezes/) is Associate Professor in Statistics at the Mathematics Department in Minho University.
 
