@@ -86,7 +86,7 @@ My posts and articles at CACM are collected in the [author page](https://cacm.ac
 
 * **INFORUM 2024**, 15º [Simpósio Nacional de Informática](https://www.inforum.pt/cfp)
   
-* **DARE**. Second Summer School on Distributed and Replicated Environments (DARE 2024)
+* **DARE**. Second Summer School on Distributed and Replicated Environments ([DARE 2024](https://dare-summer.github.io))
 
 * **DisCoTec**. IFIP, EAPLS - [DisCoTec 2023](https://www.discotec.org/2023/) - 18th International Federated Conference on Distributed Computing Techniques. Publicity Chair.
 
