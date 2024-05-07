@@ -96,7 +96,7 @@ My posts and articles at CACM are collected in the [author page](https://cacm.ac
 
 PC Member:
 
-[SRDS'24](https://srds-conference.org/index.html)
+[Opodis'24](https://www.opodis.net), [SRDS'24](https://srds-conference.org/index.html), 
 [PaPoC'20](https://papoc-workshop.github.io/2020/), [SRDS'19](https://srds2019.projet.liris.cnrs.fr), [SRDS'18](http://www.lasid.ufba.br/srds2018/view/index.php), [PaPoC'17](https://software.imdea.org//Conferences/PAPOC17/), [DAIS'17](http://2017.discotec.org), [W-PSDS'16](https://wpsds.lsd.di.uminho.pt/2016/), [PaPoC'16](https://www2.ucsc.edu/papoc-2016/index.shtml), DAIS'16, DCOSS'16, [W-PSDS'15](https://wpsds.lsd.di.uminho.pt/2015/cfp.html), [DAIS'15](http://discotec2015.inria.fr/dais-2015-call-for-papers/), [Middleware'15](http://2015.middleware-conference.org), [PaPoC'15](http://papoc.di.uminho.pt) (Co-Chair), [DAIS'14](https://projects.ics.forth.gr/dais14/program.html), Middleware'14, EuroPar'13.
 
 ## Talks
