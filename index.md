@@ -102,6 +102,7 @@ PC Member:
 
 Industry:
 
+* AI impacts on Cybersecurity [Eurotux Ecosystem](https://eurotuxecosystem.com/en/), Matosinhos, May 2024.
 * The Legacy of Peer-to-Peer Systems [J on the Beach](https://www.jonthebeach.com), Málaga, May 2023. [[Video]](https://www.youtube.com/watch?v=_mB8nEfoOX4)
 * CRDTs: Building blocks for high availability and beyond [J on the Beach](https://2022.jonthebeach.com), Málaga, Apr 2022. [[Video]](https://www.youtube.com/watch?v=UHKthksFBHA)
 * CRDTs and Redis From sequential to concurrent executions [Redis Day London](https://redislabs.com/videos/redisday-london-2018/), Nov 2018. [[Slides]](https://www.slideshare.net/RedisLabs/redisday-london-2018-crdts-and-redis-from-sequential-to-concurrent-executions) [[Video]](https://www.youtube.com/watch?v=ZoMIzBM0nf4)
