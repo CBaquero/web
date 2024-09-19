@@ -37,7 +37,7 @@ Some selected publications:
 * [Flow updating: Fault-tolerant aggregation for dynamic networks](https://doi.org/10.1016/j.jpdc.2015.02.003). Paulo Jesus, Carlos Baquero, Paulo Sérgio Almeida. Journal of Parallel and Distributed Computing, Volume 78, April 2015.
 * [Extrema propagation: Fast distributed estimation of sums and network sizes](https://doi.org/10.1109/TPDS.2011.209). Carlos Baquero, Paulo Sérgio Almeida, Raquel Menezes, Paulo Jesus. IEEE Transactions on Parallel and Distributed Systems. Volume 23, Issue 4. 2012.
 * [Conflict-Free Replicated Data Types](https://doi.org/10.1007/978-3-642-24550-3_29). Marc Shapiro, Nuno M. Preguiça, Carlos Baquero, Marek Zawirski. Stabilization, Safety, and Security of Distributed Systems. LNCS, Springer Verlag, 2011.
-* [Scalable Bloom Filters](https://doi.org/10.1016/j.ipl.2006.10.007). Paulo Sérgio Almeida, Carlos Baquero, Nuno Preguiça, David Hutchison. Information Processing Letters. Volume 101, Issue 6. Pages 255-261. 2007.
+* [Scalable Bloom Filters](https://doi.org/10.1016/j.ipl.2006.10.007). Paulo Sérgio Almeida, Carlos Baquero, Nuno Preguiça, David Hutchison. Information Processing Letters. Volume 101, Issue 6. Pages 255-261. 2007. [Audio Podcast](audio/ScalableBloomFilters.wav)
 
 For a full list of papers check my [Google Scholar](https://scholar.google.com/citations?user=NAUDTpMAAAAJ&hl=en).
 
