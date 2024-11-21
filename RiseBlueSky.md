@@ -13,9 +13,10 @@ Pure timelines depend on careful curation of who you follow, and it requires tim
 
 This combination of technological and political factors, plus reaching a certain critical mass threshold, might explain the big migration that seems to be underway. The scientific Twitter community has been longing for a long time to find a successor. Some decisions taken on X, like bringing less algorithmic visibility to posts with links, made it very difficult to share links to papers and systems to discuss them. A recent text stated that [BlueSky is emerging as the new platform for science](https://mikeyoungacademy.dk/bluesky-is-emerging-as-the-new-platform-for-science/). It does seem that a migration is occurring, but more time is needed to confirm the trend.    
 
+By [Xmal](https://bsky.app/profile/xmal.bsky.social), November 21st 2024
 
 ## Acknowledgements
 
-I want to thank Sérgio Nunes and Salvatore Sanfilippo for their comments on improving this text.
+I want to thank [Sérgio Nunes](https://bsky.app/profile/snunes.bsky.social) and [Salvatore Sanfilippo](https://bsky.app/profile/antirez.bsky.social) for their comments on improving this text.
 
-Carlos Baquero is a professor in the Department of Informatics Engineering within the Faculty of Engineering at Portugal's Porto University and is also affiliated with INESC TEC. His research is focused on distributed systems and algorithms.
+[Carlos Baquero](https://cbaquero.github.io/web/) is a professor in the Department of Informatics Engineering within the Faculty of Engineering at Portugal's Porto University and is also affiliated with INESC TEC. His research is focused on distributed systems and algorithms.
