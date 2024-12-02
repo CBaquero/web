@@ -118,7 +118,7 @@ Industry:
 Meetings: 
 
 * Dagstuhl [19442](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19442), Oct 2019. Programming Languages for Distributed Systems and Distributed Data Management.
-* Shonan [149](https://shonan.nii.ac.jp/seminars/149/), May 2019. Programming Languages for Distributed Systems.
+* [Shonan](https://m.youtube.com/watch?v=1veMCk9COLw) [149](https://shonan.nii.ac.jp/seminars/149/), May 2019. Programming Languages for Distributed Systems.
 * Dagstuhl [18091](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18091), Fev 2018. Data Consistency in Distributed Systems: Algorithms, Programs, and Databases.
 * Dagstuhl [13081](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=13081), Fev 2013. Consistency In Distributed Systems.
 
@@ -127,9 +127,7 @@ Meetings:
 
 Current:
 
-* Distributed Statistical Learning. Daniel Tinoco. Math PhD
-* Scalable Solutions for Eventual Consistency. Juliane Marubayashi. MEI MSc
-* A Library of Transactional CRDTs. Luís Recharte. MEI MSc
+* Distributed Statistical Learning. Daniel Tinoco. Math PhD. FCT Grant.
 
 Alumni:
 
@@ -137,7 +135,7 @@ Alumni:
 * Planet-Scale Leaderless Consensus. [Vitor Enes](https://vitorenes.org). PhD, 2022
 * Broadcast Cancellation in Unstructured Networks. Rui Lima. PhD, 2018
 * Robust Distributed Data Aggregation. [Paulo Jesus](https://www.linkedin.com/in/paulo-jesus/). PhD, 2012
-* Causality Tracking in Dynamic Distributed Systems. Victor Fonte . PhD, 2009
+* Causality Tracking in Dynamic Distributed Systems. Victor Fonte. PhD, 2009
 * Information Search in Large-Scale Peer-to-Peer Systems. Nuno Lopes. PhD, 2009
 
 
