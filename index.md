@@ -43,7 +43,7 @@ For a full list of papers check my [Google Scholar](https://scholar.google.com/c
 
 ## Blog posts
 
-* [The rise of BlueSky](https://cacm.acm.org/blogcacm/the-rise-of-bluesky/). November 2024, BLOG@CACM.
+* [The Rise of BlueSky](https://cacm.acm.org/blogcacm/the-rise-of-bluesky/). November 2024, BLOG@CACM.
 * [The Energy Footprint of Humans and Large Language Models](https://cacm.acm.org/blogcacm/the-energy-footprint-of-humans-and-large-language-models/). June 2024, BLOG@CACM.  [Audio Podcast](audio/LLMEnergy.wav)
 * [Niklaus Wirth and Beyond: Safeguarding the Intellectual Heritage of Computing](https://cacm.acm.org/blogs/blog-cacm/279840-niklaus-wirth-and-beyond-safeguarding-the-intellectual-heritage-of-computing/fulltext). February 2024, BLOG@CACM.
 * [All Photos are Fake until Proven Real](https://cacm.acm.org/blogs/blog-cacm/277727-all-photos-are-fake-until-proven-real/fulltext). November 2023, BLOG@CACM.
