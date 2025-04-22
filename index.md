@@ -87,6 +87,7 @@ My posts and articles at CACM are collected in the [author page](https://cacm.ac
 
 ## Service 
 
+* **Opodis 2025**, [29th International COnference on Principles of Distributed Systems](https://conferences.info.uaic.ro/opodis2025/)
 * **ICDCS 2025**, [45th IEEE ICDCS 2025](https://icdcs2025.icdcs.org)
 * **SRDS 2024**, [43rd International Symposium on Reliable Distributed Systems](https://srds-conference.org/index.html)
 * **Opodis 2024**, [28th International COnference on Principles of Distributed Systems](https://www.opodis.net)
@@ -94,12 +95,12 @@ My posts and articles at CACM are collected in the [author page](https://cacm.ac
 * **DARE**. Second Summer School on Distributed and Replicated Environments ([DARE 2024](https://dare-summer.github.io))
 * **Informatics Europe**, [Task Force for Informatics Research Evaluation](https://www.informatics-europe.org/research/research-evaluation.html)
 * **DisCoTec**. IFIP, EAPLS - [DisCoTec 2023](https://www.discotec.org/2023/) - 18th International Federated Conference on Distributed Computing Techniques. Publicity Chair.
-* **PaPoC**. Steering committee chair of the workshop series on Principles and Practice of Consistency for Distributed Data, regularly hosted with [EuroSys](http://www.eurosys.org). Links to ACM DL: [PaPoC'21](https://dl.acm.org/doi/proceedings/10.1145/3447865),[PaPoC'20](https://dl.acm.org/doi/proceedings/10.1145/3380787),[PaPoC'19](https://dl.acm.org/doi/proceedings/10.1145/3301419).
+* **PaPoC**. Was steering committee chair of the workshop series on Principles and Practice of Consistency for Distributed Data, regularly hosted with [EuroSys](http://www.eurosys.org). Links to ACM DL: [PaPoC'21](https://dl.acm.org/doi/proceedings/10.1145/3447865),[PaPoC'20](https://dl.acm.org/doi/proceedings/10.1145/3380787),[PaPoC'19](https://dl.acm.org/doi/proceedings/10.1145/3301419).
 * **JSys**. I contributed to the launch of [JSys](https://escholarship.org/uc/jsys/eb) (Journal of Systems Research) in the editorial board (2021-2022), a diamond open-access journal covering all areas of computer systems research.
 
 PC Member:
 
-[Opodis'24](https://www.opodis.net), [SRDS'24](https://srds-conference.org/index.html), 
+[Opodis'25](https://conferences.info.uaic.ro/opodis2025/), [Opodis'24](https://www.opodis.net), [SRDS'24](https://srds-conference.org/index.html), 
 [PaPoC'20](https://papoc-workshop.github.io/2020/), [SRDS'19](https://srds2019.projet.liris.cnrs.fr), [SRDS'18](http://www.lasid.ufba.br/srds2018/view/index.php), [PaPoC'17](https://software.imdea.org//Conferences/PAPOC17/), [DAIS'17](http://2017.discotec.org), [W-PSDS'16](https://wpsds.lsd.di.uminho.pt/2016/), [PaPoC'16](https://www2.ucsc.edu/papoc-2016/index.shtml), DAIS'16, DCOSS'16, [W-PSDS'15](https://wpsds.lsd.di.uminho.pt/2015/cfp.html), [DAIS'15](http://discotec2015.inria.fr/dais-2015-call-for-papers/), [Middleware'15](http://2015.middleware-conference.org), [PaPoC'15](http://papoc.di.uminho.pt) (Co-Chair), [DAIS'14](https://projects.ics.forth.gr/dais14/program.html), Middleware'14, EuroPar'13.
 
 ## Talks
