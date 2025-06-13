@@ -8,10 +8,10 @@ Meeting room at DEI FEUP
 
 ## Members
 
-- Carlos Baquero, FEUP
-- João Resende, DCC
-- Francisco Maia, FEUP
+* [Carlos Baquero](https://cbaquero.github.io/web/), FEUP
+* [João Resende](https://jresende.github.io), DCC
+* Francisco Maia, FEUP
 
 ## Schedule
 
-- July XX, 2025, 14h30. Practical Rateless Set Reconciliation
+* July XX, 2025, 14h30. Lei Yang, Yossi Gilad, Mohammad Alizadeh [Practical Rateless Set Reconciliation](https://arxiv.org/abs/2402.02668), ACM SIGCOMM 2024
