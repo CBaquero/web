@@ -1,6 +1,6 @@
 # Informal Readings @Porto
 
-In **Informal Readings** we meet on a monthly basis to discuss interesting papers and new results of interest to distributed systems research. We gather a small group of researchers from the University of Porto, as well as guests from other intitutions.
+In **Informal Readings** we meet on a monthly basis to discuss interesting papers and new results of interest to distributed systems research. We gather a small group of researchers from the University of Porto, as well as guests from other institutions.
 
 ## Location
 
