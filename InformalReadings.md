@@ -4,7 +4,7 @@ In **Informal Readings** we meet on a monthly basis to discuss interesting paper
 
 For each session a paper is chossen by a prospective _Reader_ and communicated in advance. During the session the _Reader_ describes the paper (possibly, but not necessarily, using slides) in order to start a brief discussion on the topic. Sessions will be limited to one hour. 
 
-Session proposals should be sent to Carlos Baquero, for scheduling.
+Session proposals should be sent to any of the organizers, for scheduling.
 
 ## Location
 
