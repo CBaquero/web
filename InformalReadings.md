@@ -10,7 +10,7 @@ Session proposals should be sent to Carlos Baquero, for scheduling.
 
 Meeting room at DEI FEUP
 
-## Members
+## Organizers
 
 * [Carlos Baquero](https://cbaquero.github.io/web/), FEUP
 * [João Resende](https://jresende.github.io), DCC
