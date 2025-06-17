@@ -6,7 +6,7 @@ For each session a paper is chossen by a prospective _Reader_ and communicated i
 
 Session proposals should be sent to any of the organizers, for scheduling. 
 
-A [mailing list](https://groups.google.com/g/informal-readingsup) is hosted in google groups, please ask one organizer to be added.
+A [mailing list](https://groups.google.com/g/informal-readingsup) dedicated to session announcements is hosted in Google Groups. Please ask one organiser to be added.
 
 ## Location
 
