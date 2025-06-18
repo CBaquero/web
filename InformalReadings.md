@@ -20,5 +20,5 @@ Meeting room at DEI FEUP
 
 ## Schedule
 
-* Wed, July 9th, 2025, 15h00. Reader Carlos Baquero. Paper by Lei Yang, Yossi Gilad, Mohammad Alizadeh [Practical Rateless Set Reconciliation](https://arxiv.org/abs/2402.02668), ACM SIGCOMM 2024
+* Wed, July 9th, 2025, 16h00. Reader Carlos Baquero. Paper by Lei Yang, Yossi Gilad, Mohammad Alizadeh [Practical Rateless Set Reconciliation](https://arxiv.org/abs/2402.02668), ACM SIGCOMM 2024
 
