@@ -10,7 +10,7 @@ A [mailing list](https://groups.google.com/g/informal-readingsup) dedicated to s
 
 ## Location
 
-Meeting room at DEI FEUP
+Meeting room I125 at DEI FEUP
 
 ## Organizers
 
