@@ -26,6 +26,7 @@ Past:
 
 Some selected publications:
 
+* [Distributed Generalized Linear Models: A Privacy-Preserving Approach](https://link.springer.com/article/10.1007/s00180-025-01673-8). Daniel Tinoco, Carlos Baquero, Raquel Menezes. Springer Computational Statistics. Outubro 2025.
 * [Using survey data to estimate the impact of the omicron variant on vaccine efficacy against COVID-19 infection](https://www.nature.com/articles/s41598-023-27951-3). Jesús Rufino et al. (Nature) Scientific Reports. Jan 2023. 
 * [The Dynamics of Remembering and Forgetting](https://dl.acm.org/doi/10.1145/3535190). Carlos Baquero, Rosa Cabecinhas. Communications of the ACM. July 2022.
 * [Picking publication targets](https://dl.acm.org/doi/10.1145/3510545). Carlos Baquero. Communications of the ACM. March 2022.
