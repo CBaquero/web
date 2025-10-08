@@ -16,7 +16,7 @@ Meeting room I125 at DEI FEUP or room FC6 005 at FCUP
 
 * [Carlos Baquero](https://cbaquero.github.io/web/), FEUP
 * [João Resende](https://jresende.github.io), DCC
-* Francisco Maia, FEUP
+* [Francisco Maia](https://www.inesctec.pt/pt/pessoas/francisco-almeida-maia), FEUP
 
 ## Schedule
 
