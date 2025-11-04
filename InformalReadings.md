@@ -22,4 +22,4 @@ Meeting room I125 at DEI FEUP or room FC6 005 at FCUP
 
 * FEUP. Wed, July 9th, 2025, 16h00. Reader Carlos Baquero. Paper by Lei Yang, Yossi Gilad, Mohammad Alizadeh [Practical Rateless Set Reconciliation](https://arxiv.org/abs/2402.02668), ACM SIGCOMM 2024.
 * FCUP. Wed, October 8th, 2025, 14h30. Reader Tadeu Freitas. Paper by Suyash Gupta, Sajjad Rahnama, Shubham Pandey, Natacha Crooks, Mohammad Sadoghi [Dissecting BFT Consensus: In Trusted Components we Trust!](https://arxiv.org/abs/2202.01354), ACM EuroSys 2023.
-* FEUP. Wed, November 19th, 2025, 15h30. Reader Abel Dantas. Paper by Martin Kelppmann [Making CRDTs Byzantine Fault Tolerant](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf), ACM EuroSys PaPoC 2022. 
+* FEUP. Wed, December 3rd, 2025, 15h30. Reader Abel Dantas. Paper by Martin Kelppmann [Making CRDTs Byzantine Fault Tolerant](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf), ACM EuroSys PaPoC 2022. 
