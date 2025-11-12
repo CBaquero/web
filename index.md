@@ -110,6 +110,11 @@ FEUP/DCC. Paper readings on distributed systems [Informal Readings @Porto](https
 
 ## Talks
 
+Labs:
+
+* Diﬀerent Strategies in Scientific Publishing (How to be (i)relevant) [Talk at IMDEA Software](https://cbaquero.github.io/web/pdf/PubStrategyImdeaJune2025.pdf), Madrid, June 2025.
+
+
 Industry:
 
 * AI impacts on Cybersecurity [Eurotux Ecosystem](https://eurotuxecosystem.com/en/), Matosinhos, May 2024.
