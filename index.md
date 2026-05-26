@@ -88,9 +88,9 @@ My posts and articles at CACM are collected in the [author page](https://cacm.ac
 
 ## Service 
 
-* **ICDCS 2026**, [43rd International Symposium on Reliable Distributed Systems](https://icdcs2025.icdcs.org)
+* **ICDCS 2026**, [46th IEEE International Conference on Distributed Computing Systems](https://icdcs2026.icdcs.org)
 * **Opodis 2025**, [29th International COnference on Principles of Distributed Systems](https://conferences.info.uaic.ro/opodis2025/)
-* **ICDCS 2025**, [45th IEEE ICDCS 2025](https://icdcs2025.icdcs.org)
+* **ICDCS 2025**, [45th IEEE nternational Conference on Distributed Computing Systems](https://icdcs2025.icdcs.org)
 * **SRDS 2024**, [43rd International Symposium on Reliable Distributed Systems](https://srds-conference.org/index.html)
 * **Opodis 2024**, [28th International COnference on Principles of Distributed Systems](https://www.opodis.net)
 * **INFORUM 2024**, 15º [Simpósio Nacional de Informática](https://www.inforum.pt/cfp)
