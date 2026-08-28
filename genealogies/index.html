@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Intellectual Genealogies</title>
+<meta name="description" content="A report series tracing what became of the ideas in seminal computer-science papers.">
+<style>
+:root {
+    --paper: #FBFAF7;
+    --ink: #232326;
+    --muted: #6E6B64;
+    --accent: #A96A04;
+    --rule: #E5E1D8;
+    --block: #F4F1E9;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #1C1B19;
+      --ink: #E8E5DF;
+      --muted: #9B968C;
+      --accent: #D89A2E;
+      --rule: #35332E;
+      --block: #26241F;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #1C1B19;
+    --ink: #E8E5DF;
+    --muted: #9B968C;
+    --accent: #D89A2E;
+    --rule: #35332E;
+    --block: #26241F;
+  }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: Palatino, "Palatino Linotype", "URW Palladio L", P052, Georgia, serif;
+    line-height: 1.62;
+    margin: 0;
+    padding: 2.2rem 1.25rem 4rem;
+  }
+  main { max-width: 34em; margin: 0 auto; }
+  .eyebrow {
+    font-size: 0.78rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 0.4rem;
+  }
+  .masthead { border-bottom: 1px solid var(--accent); padding-bottom: 0.6rem; margin-bottom: 2.2rem; }
+  h1 {
+    font-size: 2.05rem;
+    line-height: 1.15;
+    margin: 0 0 0.5rem;
+    text-wrap: balance;
+    font-weight: 700;
+  }
+  .subtitle {
+    font-size: 1.25rem;
+    font-style: italic;
+    line-height: 1.35;
+    margin: 0 0 1.4rem;
+    text-wrap: balance;
+  }
+  .byline { color: var(--muted); font-size: 0.95rem; margin: 0 0 2rem; }
+  .seed {
+    font-size: 0.88rem;
+    color: var(--muted);
+    border-left: 2px solid var(--accent);
+    padding-left: 0.85rem;
+    margin: 0 0 2.5rem;
+  }
+  .seed em { color: var(--ink); font-style: normal; }
+  h2 {
+    font-size: 1.3rem;
+    margin: 2.6rem 0 0.8rem;
+    line-height: 1.25;
+    text-wrap: balance;
+  }
+  h2 .num { color: var(--accent); font-weight: 700; margin-right: 0.45em; }
+  p { margin: 0 0 1.05rem; }
+  .abstract {
+    background: var(--block);
+    border-radius: 4px;
+    padding: 1.1rem 1.2rem;
+    font-size: 0.95rem;
+    margin-bottom: 1rem;
+  }
+  .abstract strong { letter-spacing: 0.06em; }
+  blockquote {
+    margin: 1.2rem 0 1.2rem 1rem;
+    padding-left: 1rem;
+    border-left: 2px solid var(--rule);
+    font-style: italic;
+    color: var(--muted);
+  }
+  .timeline { margin: 1.6rem 0; padding: 0; }
+  .timeline dt {
+    color: var(--accent);
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    margin-top: 0.7rem;
+  }
+  .timeline dd { margin: 0.1rem 0 0 1.4rem; }
+  .provenance {
+    font-size: 0.88rem;
+    color: var(--muted);
+    border-top: 1px solid var(--rule);
+    padding-top: 1.2rem;
+    margin-top: 2.8rem;
+  }
+  .sources { font-size: 0.85rem; color: var(--muted); }
+  .sources h2 { color: var(--ink); }
+  .sources ol { padding-left: 1.3rem; }
+  .sources li { margin-bottom: 0.45rem; }
+  .footer {
+    margin-top: 3rem;
+    font-size: 0.78rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    text-align: center;
+  }
+h3{font-size:1.05rem;font-style:italic;font-weight:600;margin:1.6rem 0 0.5rem;}
+.fig{margin:1.5rem 0;}.fig img{max-width:100%;background:#fff;border:1px solid var(--rule);border-radius:4px;padding:6px;box-sizing:border-box;}.fig figcaption{font-size:0.82rem;color:var(--muted);margin-top:0.45rem;line-height:1.45;}
+
+  a { color: var(--accent); }
+  .eyebrow a, .byline a { color: inherit; }
+  .eyebrow a { text-decoration: none; }
+  .eyebrow a:hover { text-decoration: underline; }
+  .comments { margin-top: 3rem; border-top: 1px solid var(--rule); padding-top: 1.4rem; }
+  .comments h2 { margin-top: 0; }
+  .comments .note { font-size: 0.88rem; color: var(--muted); }
+  .card { border: 1px solid var(--rule); border-radius: 6px;
+          padding: 1.15rem 1.3rem 1.05rem; margin: 1.3rem 0; background: var(--block); }
+  .card h2 { margin: 0.15rem 0 0.25rem; font-size: 1.3rem; }
+  .card h2 a { color: var(--ink); text-decoration: none; }
+  .card h2 a:hover { color: var(--accent); }
+  .card .eyebrow { margin-bottom: 0; }
+  .cardsub { font-style: italic; margin: 0 0 0.75rem; }
+  .seedline { font-size: 0.87rem; color: var(--muted); margin: 0 0 0.75rem; }
+  .seedline em { font-style: italic; }
+  .cardfind { font-size: 0.95rem; margin: 0 0 0.8rem; }
+  .pilotnote { font-size: 0.85rem; color: var(--muted);
+               border-left: 2px solid var(--accent); padding-left: 0.75rem; margin: 0 0 0.8rem; }
+  .cardlinks { font-size: 0.92rem; margin: 0; }
+  .cardlinks .corpus { color: var(--muted); }
+  .btn { display: inline-block; border: 1px solid var(--accent); color: var(--accent);
+         padding: 0.45rem 1rem; border-radius: 4px; text-decoration: none; font-size: 0.95rem; }
+  .btn:hover { background: var(--accent); color: var(--paper); }
+</style>
+</head>
+<body>
+<main>
+  <header class="masthead">
+    <p class="eyebrow">A report series</p>
+  </header>
+  <h1>Intellectual Genealogies</h1>
+  <p class="subtitle">What became of a paper&rsquo;s ideas.</p>
+  <p class="byline">Concept by
+     <a href="https://cbaquero.github.io/web/">Carlos Baquero</a>
+     (FEUP, Universidade do Porto &amp; INESC TEC) ·
+     Execution by Claude agents</p>
+
+  <p>A citation count records that a paper mattered. It does not record
+  what happened to the ideas inside it. Each report in this series takes
+  one seminal paper of computer science and follows its ideas forward
+  through the record: which concepts traveled and under what names, which
+  were reinvented by people who had not read the original, which stalled,
+  and which now run in production systems that no longer name their
+  source. The unit of analysis is the idea, not the citation.</p>
+
+  <p>The reports are built from evidence, not recollection. Citation
+  corpora come from open bibliographic databases; the texts behind the
+  claims are read, not counted; every statement of descent points to an
+  entry in an evidence ledger and carries an explicit confidence class.
+  When the evidence supports only similarity, the report says similarity.
+  And because ideas also travel outside the citation graph — through
+  folklore, documentation, and textbooks — the reports follow them
+  there.</p>
+
+  <h2>Reports</h2>
+<article class="card">
+  <p class="eyebrow">No. 1 · draft · August 2026</p>
+  <h2><a href="01-time-clocks/">The Clock That Ran Away</a></h2>
+  <p class="cardsub">What became of “Time, Clocks, and the Ordering of Events”</p>
+  <p class="seedline">Seed paper: Leslie Lamport. “Time, Clocks, and the Ordering of Events in a Distributed System.” <em>Communications of the ACM</em> 21(7), July 1978.</p>
+  <p class="cardfind">An eight-page paper with four references — two of them relativity textbooks — defined what “before” means in a system with no common time. Forty-eight years later its concepts run in language memory models, databases, and blockchains, mostly without citation, and the passage its first readers skipped over became its highest-impact idea.</p>
+  <p class="cardlinks"><a href="01-time-clocks/">Read online</a> ·
+  <a href="01-time-clocks/genealogy-01-time-clocks.pdf">PDF</a>
+  <span class="corpus">· corpus: 9,110 citing works</span></p>
+</article>
+<article class="card">
+  <p class="eyebrow">No. 0 · pilot · draft · August 2026</p>
+  <h2><a href="00-crdt/">The Long Convergence</a></h2>
+  <p class="cardsub">What became of the CRDT idea</p>
+  <p class="seedline">Seed paper: Marc Shapiro, Nuno Preguiça, Carlos Baquero, Marek Zawirski. “Conflict-Free Replicated Data Types.” <em>SSS 2011</em>, LNCS 6976.</p>
+  <p class="cardfind">Fifteen years after four researchers proposed that replicas can converge without synchronization, the founding paper’s citation curve has still not bent downward, and the acronym names technology shipped in databases and collaborative editors. The usual origin story omits a correctness crisis in a neighbouring community; this report puts it back.</p>
+  <p class="pilotnote">Pilot report. The seed paper is co-authored by the series director; the analysis was completed blind, before any correction from him was taken, and his corrections are logged as validation data. The pilot exists to test the method on a lineage the validator knows from the inside.</p><p class="cardlinks"><a href="00-crdt/">Read online</a> ·
+  <a href="00-crdt/genealogy-00-crdt.pdf">PDF</a>
+  <span class="corpus">· corpus: 840 citing works</span></p>
+</article>
+
+  <p>New reports are added at a regular pace. Report No.&nbsp;2 is in preparation.
+  Suggestions of seed papers are welcome — a good seed is a paper whose
+  ideas seem to be everywhere while the paper itself is cited less and
+  less.</p>
+  <p><a class="btn" href="https://github.com/CBaquero/web/discussions/new?category=ideas&title=Seed+suggestion%3A+&body=%2A%2APaper%3A%2A%2A+%0A%2A%2AYear+and+venue%3A%2A%2A+%0A%2A%2AWhy+it+fits+the+series%3A%2A%2A+%0A">Suggest a seed paper</a></p>
+
+  <h2>How these reports are made</h2>
+  <p>The research and the writing are done by an AI system — Claude, by
+  Anthropic — running a written, versioned methodology under the
+  direction of Carlos Baquero, who commissions each report, reviews it,
+  and validates it against the record. Citation data comes from
+  <a href="https://openalex.org">OpenAlex</a> and
+  <a href="https://www.semanticscholar.org">Semantic Scholar</a>; full
+  texts are read before any lineage claim is made. Every claim in a
+  report is tied to a ledger entry whose confidence class — documented,
+  strong, plausible, or resemblance — is the strongest the evidence
+  supports, and the prose is required to match it. A methods paper
+  describing the pipeline is in preparation.</p>
+
+  <p>Each report page has a comment section backed by GitHub Discussions;
+  a GitHub account is needed to post. Corrections are welcome: a
+  genealogy is a set of claims about the record, and the record can push
+  back.</p>
+
+  <p class="footer">Intellectual Genealogies · An intellectual genealogy
+  follows ideas through history, not just papers through a citation
+  network</p>
+</main>
+</body>
+</html>

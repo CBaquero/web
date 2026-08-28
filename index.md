@@ -15,6 +15,7 @@ Contact: cbm (at) fe.up.pt
 
 Ongoing:
 
+* [Intellectual Genealogies](https://cbaquero.github.io/web/genealogies/) - A report series tracing what became of the ideas in seminal computer science papers
 * [CoronaSurveys](https://coronasurveys.org) - Measuring the magnitude and evolution of the Covid-19 Pandemic
 
 Past:
