@@ -23,4 +23,6 @@ Meeting room I125 at DEI FEUP or room FC6 005 at FCUP
 * FEUP. Wed, July 9th, 2025, 16h00. Reader Carlos Baquero. Paper by Lei Yang, Yossi Gilad, Mohammad Alizadeh [Practical Rateless Set Reconciliation](https://arxiv.org/abs/2402.02668), ACM SIGCOMM 2024.
 * FCUP. Wed, October 8th, 2025, 14h30. Reader Tadeu Freitas. Paper by Suyash Gupta, Sajjad Rahnama, Shubham Pandey, Natacha Crooks, Mohammad Sadoghi [Dissecting BFT Consensus: In Trusted Components we Trust!](https://arxiv.org/abs/2202.01354), ACM EuroSys 2023.
 * FEUP. Wed, December 3rd, 2025, 15h30. Reader Abel Dantas. Paper by Martin Kelppmann [Making CRDTs Byzantine Fault Tolerant](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf), ACM EuroSys PaPoC 2022.
-* FCUP. Wed, February 18th, 2026, 14h30. Reader Bernardo Portela. Topic "A Stroll Through Provable Security: Real-vs-Ideal Models and Ideal Functionalities".
+* FCUP. Wed, February 18th, 2026, 14h30. Talk Bernardo Portela. Topic "A Stroll Through Provable Security: Real-vs-Ideal Models and Ideal Functionalities".
+* FEUP. Wed, April 22nd, 2026. Reader Francisco Maia. Topic "Lamport’s Arrow of Time: The Category Mistake in Logical Clocks".
+* FEUP. Wed, November 11th, 2026, 16h00. Talk João Paulo. Topic "Lessons from the Trenches: Systems Challenges and Collaborations in HPC".
